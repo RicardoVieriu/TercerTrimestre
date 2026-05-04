@@ -1,0 +1,27 @@
+th{
+    background-color: grey;
+}
+
+.td1{
+    background-color: dimgray;
+}
+
+.td2{
+    background-color: indianred;
+}
+
+.td3{
+    background-color: firebrick;
+}
+
+#td3{
+    background-color: firebrick;
+}
+
+.td4{
+    background-color: dodgerblue;
+}
+
+.td5{
+    background-color: indigo;
+}

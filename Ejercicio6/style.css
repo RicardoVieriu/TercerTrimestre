@@ -1,0 +1,43 @@
+tr.teal{
+    color: teal;
+}
+
+tr.red{
+    color: red;
+}
+
+tr.blue{
+    color: blue;
+}
+
+tr.orange{
+    color: orange;
+}
+
+tr.purple{
+    color: purple;
+}
+
+tr.olive{
+    color: olive;
+}
+
+tr.fuchsia{
+    color: fuchsia;
+}
+
+tr.green{
+    color: green;
+}
+
+.fondo-red{
+    background-color: red;
+}
+
+.fondo-green{
+    background-color: green;
+}
+
+.fondo-blue{
+    background-color: blue;
+}
