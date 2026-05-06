@@ -1,0 +1,13 @@
+.rojo {
+    color: red;
+}
+
+a#dos {
+    background-color: red;
+    color: white;
+    text-decoration: none;
+}
+
+a#tres {
+    color: lightgray;
+}

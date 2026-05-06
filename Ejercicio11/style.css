@@ -1,0 +1,21 @@
+table {
+    width: 75%;
+    text-align: center;
+}
+
+td {
+    border: 1px solid white;
+}
+
+td {
+    background-color: deepskyblue;
+}
+
+td[rowspan] {
+    background-color: lightgreen;
+}
+
+.titulo {
+    background-color: lightsalmon;
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+.rojo {
+    color: red;
+}
+
+.sinsubrayado {
+    text-decoration: none;
+}
+
+.importante {
+    font-size: x-large;
+}
+
+.raro {
+    text-decoration: overline;
+}

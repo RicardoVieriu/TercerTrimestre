@@ -1,0 +1,49 @@
+.arial {
+    font-family: 'Arial Black';
+    font-size: 1.4em;
+    color: darkblue;
+}
+
+.comic {
+    font-family: 'Comic Sans MS';
+    font-size: 1.1em;
+    color: seagreen;
+    font-weight: bold;
+}
+
+.garamond {
+    font-family: 'Garamond';
+    font-size: 1.4em;
+    color: turquoise;
+    font-weight: bold;
+}
+
+.impact {
+    font-family: 'Impact';
+    font-size: 1.2em;
+    color: mediumpurple;
+}
+
+.verdana {
+    font-family: 'Verdana';
+    font-size: 1.4em;
+    color: fuchsia;
+}
+
+.courier {
+    font-family: 'Courier New';
+    font-size: 1.0em;
+    color: violet;
+}
+
+.lucida {
+    font-family: 'Lucida Console';
+    font-size: 1.2em;
+    color: slategray;
+}
+
+.monotype {
+    font-family: 'Monotype Cursiva';
+    font-size: 1.4em;
+    color: brown;
+}

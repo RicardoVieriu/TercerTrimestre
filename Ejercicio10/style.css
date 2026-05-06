@@ -1,29 +1,29 @@
-*{
+* {
     font-size: 1.1em;
 }
 
-body{
+body {
     background-color: yellow;
 }
 
-h1{
+h1 {
     color: orange;
     text-align: center;
 }
 
-a[href="https://www.bing.es"]{
+a[href="https://www.bing.es"] {
     color: purple;
 }
 
-a[href="https://www.google.es"]{
+a[href="https://www.google.es"] {
     color: green;
     text-decoration: none;
 }
 
-a[href="https://www.facebook.com"]{
+a[href="https://www.facebook.com"] {
     color: red;
 }
 
-a[href="https://www.x.com"]{
+a[href="https://www.x.com"] {
     color: red;
 }
