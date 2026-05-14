@@ -1,0 +1,20 @@
+#padre {
+    width: 650px;
+    height: 400px;
+    background-color: limegreen;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.hijo {
+    width: 100px;
+    height: 74px;
+    background-color: cornflowerblue;
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+    font-size: x-large;
+    font-weight: bold;
+}

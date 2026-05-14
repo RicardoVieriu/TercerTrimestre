@@ -1,0 +1,45 @@
+#padre {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+    grid-template-areas: "uno uno dos dos"
+        "tres tres tres tres"
+        "cuatro cinco cinco cinco"
+        "seis seis seis seis";
+
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+}
+
+
+#item1 {
+    grid-area: uno;
+    background-color: rgba(49, 130, 206);
+}
+
+#item2 {
+    grid-area: dos;
+    background-color: rgba(66, 153, 225);
+}
+
+#item3 {
+    grid-area: tres;
+    background-color: rgba(99, 179, 237);
+}
+
+#item4 {
+    grid-area: cuatro;
+    background-color: rgba(49, 130, 206);
+}
+
+#item5 {
+    grid-area: cinco;
+    background-color: rgba(66, 153, 225);
+}
+
+#item6 {
+    grid-area: seis;
+    background-color: rgba(99, 179, 237);
+}

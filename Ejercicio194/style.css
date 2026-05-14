@@ -1,0 +1,22 @@
+#padre {
+    background-color: beige;
+    width: 90%;
+    height: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+.cajas {
+    display: flex;
+    gap: 20px;
+}
+
+.hijo {
+    border: solid black 1px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}

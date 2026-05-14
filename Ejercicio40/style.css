@@ -1,0 +1,43 @@
+#padre {
+    background-color: grey;
+    width: 560px;
+    height: 340px;
+    position: relative;
+}
+
+#item1 {
+    background-color: red;
+    width: 225px;
+    height: 55px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#item2 {
+    background-color: blue;
+    width: 225px;
+    height: 55px;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+
+}
+
+#item3 {
+    background-color: green;
+    width: 225px;
+    height: 110px;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+}
+
+#item4 {
+    background-color: yellow;
+    width: 225px;
+    height: 110px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}

@@ -1,0 +1,54 @@
+body {
+    background-color: #e5e5e5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    width: 90%;
+    margin: 30px auto 10px auto;
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.contenedor {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    gap: 15px;
+}
+
+
+.articulo {
+    background-color: cyan;
+    padding: 15px;
+    flex: 1;
+}
+
+.articulo3 {
+    flex: 1.5;
+}
+
+.botones {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    border: none;
+    padding: 8px;
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+.boton-grande {
+    width: 100%;
+    margin-bottom: 15px;
+}

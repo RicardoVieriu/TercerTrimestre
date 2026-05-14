@@ -1,0 +1,22 @@
+#padre {
+    background-color: rgba(66, 153, 225);
+    width: 700px;
+    height: 120px;
+    position: relative;
+}
+
+#absolute1 {
+    position: absolute;
+    background-color: red;
+    top: 10px;
+    left: 70px;
+    color: white;
+}
+
+#absolute2 {
+    position: absolute;
+    background-color: yellow;
+    top: 20px;
+    left: 30px;
+    color: white;
+}
